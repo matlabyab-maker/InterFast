@@ -1,0 +1,12 @@
+InterFast_v1.0
+Files included:
+- settings.gradle.kts
+- build.gradle.kts
+- gradle.properties
+- app/build.gradle.kts
+- app/src/main/AndroidManifest.xml
+- app/src/main/java/com/interfast/browser/MainActivity.kt
+- app/src/main/res/drawable/ic_interfast.xml
+- .github/workflows/android.yml
+- README.md
+- INDEX.txt
